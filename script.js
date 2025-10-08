@@ -1,5 +1,4 @@
-//your JS code here. If required.
-function () {
+(function () {
   const form = document.getElementById("login-form");
   const usernameInput = document.getElementById("username");
   const passwordInput = document.getElementById("password");
